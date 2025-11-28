@@ -28,7 +28,7 @@ Scalable e-commerce customer analytics pipeline processing 96,478 orders from 93
 
 ### Why Spark?
 
-1. **Scalability**: Handles datasets from GB to PB
+1. **Scalability**: Because it handles datasets from GB to PB
 2. **Performance**: 10-100x faster than MapReduce
 3. **Complex Joins**: Efficient multi-table operations on 7 normalized tables
 4. **Window Functions**: RFM scoring across 93K customers
