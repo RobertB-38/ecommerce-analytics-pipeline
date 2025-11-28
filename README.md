@@ -162,9 +162,14 @@ jupyter notebook
 
 ---
 
-## Author
+## Authors
 
 **Robert Borkar**  
 MSc Computing (Data Analytics)  
 Dublin City University  
 robert.borkar2@mail.dcu.ie
+
+**Niket Ahire**  
+MSc Computing (Data Analytics)  
+Dublin City University  
+niketsuresh.ahire2@mail.dcu.ie
